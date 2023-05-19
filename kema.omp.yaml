@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json
 version: 2
 palette:
-  default_fg: "#0077ff"
+  default_fg: "#7ee081"
   default_bg: "#29315A"
 console_title_template: "{{ .UserName }}@{{ .HostName }} {{ .Shell }} in {{ .PWD }}"
 blocks:
