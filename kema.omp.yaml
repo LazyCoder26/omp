@@ -3,7 +3,7 @@
 version: 2
 palette:
   default_fg: "#7ee081"
-  default_bg: "#29315A"
+  default_bg: "#083d77"
 console_title_template: "{{ .UserName }}@{{ .HostName }} {{ .Shell }} in {{ .PWD }}"
 blocks:
   - type: prompt
